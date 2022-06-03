@@ -1,0 +1,21 @@
+figure.figsize: 2,2
+figure.dpi:300
+lines.linewidth:1
+lines.markersize:2
+font.size:7
+xtick.bottom:True
+xtick.top:True
+xtick.direction:in
+ytick.left:True
+ytick.right:True
+ytick.direction:in
+xtick.major.size:3
+xtick.minor.size:1.5
+ytick.major.size:3
+ytick.minor.size:1.5
+legend.frameon:False
+legend.fontsize:7
+axes.linewidth:1
+font.family:serif
+font.serif:Times New Roman
+font.style:normal
