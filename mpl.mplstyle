@@ -17,5 +17,5 @@ legend.frameon:False
 legend.fontsize:7
 axes.linewidth:1
 font.family:serif
-font.serif:Times New Roman
+font.serif:Nimbus Roman No9 L
 font.style:normal
